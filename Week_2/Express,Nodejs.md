@@ -1,6 +1,6 @@
 # Week 2.2 - Express & Node.js: Detailed Notes
 
-## 📌 What You Will Learn
+##  What You Will Learn
 - ECMAScript and JavaScript
 - Node.js and Bun
 - Node.js Runtime
