@@ -56,8 +56,8 @@ fs.readFile('example.txt', 'utf8', (err, data) => {
 ---
 
 ## 🌍 Understanding Frontend vs Backend
-- **Frontend**: HTML, CSS, JS (Runs in browser)
-- **Backend**: Server-side logic, database access (Runs on server using Node.js)
+- **Frontend**: HTML, CSS, JS (Runs in browser).
+- **Backend**: Server-side logic, database access (Runs on server using Node.js).
 
 ---
 
