@@ -1,6 +1,6 @@
 # Week 3.1 - Middleware, Authentication, Global Catches, Zod
 
-## 🏥 Hospital Analogy for Middlewares
+## Hospital Analogy for Middlewares
 Before reaching the doctor (final route handler), checks like insurance verification, blood test, and BP check are done. Similarly, in servers, we perform operations like authentication and validation before the main controller logic.
 
 **Hospital Example Flow:**
