@@ -8,7 +8,7 @@ Before reaching the doctor (final route handler), checks like insurance verifica
 - Blood test (STD, blood pressure check)
 - Only then meeting the doctor
 
-## 🚀 Middlewares in Web Servers
+## Middlewares in Web Servers
 Middlewares are functions that intercept incoming requests before reaching the main handler.
 
 ### Examples of Middlewares:
