@@ -31,7 +31,7 @@ Input: `password123` ➝ Output: `adsfadsfa$@#` (can't be reversed)
 **Signature (JWT Concept):**
 - Verifies data authenticity.
 
-## 🗝 Typical Authentication Flow
+## 🗝Typical Authentication Flow
 1. User signs up/signs in ➝ Server returns a **JWT**.
 2. Client saves token (in Local Storage or Cookies).
 3. Client sends token in Authorization header with every request.
