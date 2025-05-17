@@ -4,7 +4,7 @@
 Before reaching the doctor (final route handler), checks like insurance verification, blood test, and BP check are done. Similarly, in servers, we perform operations like authentication and validation before the main controller logic.
 
 **Hospital Example Flow:**
-- Insurance check
+- Insurance check.
 - Blood test (STD, blood pressure check)
 - Only then meeting the doctor
 
