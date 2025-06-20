@@ -1,6 +1,6 @@
 # Week 3.2 - Fetch API, Authentication, Databases
 
-## Fetch API
+## Fetch API-
 - Alternative to Postman/Browser URL bar.
 - Use JavaScript `fetch()` to make HTTP requests.
 
